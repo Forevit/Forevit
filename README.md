@@ -33,7 +33,7 @@
     <img align = "center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 
-### Estou desevolvendo minhas habilidades em Infraestrutura com cursos e certificações, como "Introdution to Cybersecurity" e "Networking Basics" da  Cisco, e estudando sobre Servidores Windows e Linux, estouconhecendo sobre a LGPD e GPO e a importancia da Segurança da informação.
+### Estou desevolvendo minhas habilidades em Infraestrutura com cursos e certificações, como "Introdution to Cybersecurity" e "Networking Basics" da  Cisco, e estudando sobre Servidores Windows e Linux, estou conhecendo sobre a LGPD e GPO e a importancia da Segurança da informação.
    
 
 
