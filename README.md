@@ -4,7 +4,7 @@
 
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloseduardorodriguesferreira/) [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](carlosferreira2@aluno.uniateneu.edu.br)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloseduardorodriguesferreira/) [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://Forevit.github.io) [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](carlosferreira2@aluno.uniateneu.edu.br) 
 
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Forevit&show_icons=true&theme=dracula)
