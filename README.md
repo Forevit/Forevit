@@ -1,6 +1,6 @@
 
 
-## Olá, Sou Eduardo Ferreira, estudante de Engenharia da Computação. ✋
+## Olá, sou Eduardo Ferreira, estudante de Engenharia da Computação. ✋
 
 
 
