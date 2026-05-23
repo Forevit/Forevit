@@ -23,7 +23,7 @@ Técnico de Suporte em TI com experiência em ambientes corporativos Windows, in
 - Controle de acesso com HikCentral (terminais de reconhecimento facial)
 - Automação de rotinas de manutenção com PowerShell
 
-**Aprendiz de TI — Eletra Energy Solutions** *(~1 ano e 4 meses)*
+**Aprendiz de TI — Eletra Energy Solutions** *(jun/2023 - Set/2024)*
 - Suporte técnico interno e helpdesk
 - Introdução a ambientes de rede corporativa e Active Directory
 
