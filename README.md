@@ -1,39 +1,68 @@
+# Carlos Eduardo Ferreira
 
+**Técnico de Suporte em TI · Estudante de Engenharia da Computação**
 
-## Olá, sou Eduardo Ferreira, estudante de Engenharia da Computação. ✋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/carloseduardorodriguesferreira)
+[![Email](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:eduaxdo_@outlook.com)
+![Fortaleza, CE](https://img.shields.io/badge/Fortaleza%2C%20CE-Brasil-009c3b?style=flat)
 
+---
 
+## Sobre
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloseduardorodriguesferreira/) [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://Forevit.github.io) [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](carlosferreira2@aluno.uniateneu.edu.br) 
+Técnico de Suporte em TI com experiência em ambientes corporativos Windows, infraestrutura de redes e monitoramento de sistemas. Atualmente cursando o 6º semestre de Engenharia da Computação na Universidade Ateneu. Focado em evoluir para funções de Sysadmin e Infraestrutura.
 
+---
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Forevit&show_icons=true&theme=dracula)
+## Experiência
 
+**Técnico de Suporte Júnior — Paerro Tecnologia** *(nov/2024 – atual)*
+- Suporte técnico e campo em ambientes cliente com domínio Windows
+- Administração de redes MikroTik (configuração, VPN WireGuard, firewall)
+- Monitoramento de infraestrutura com Zabbix
+- Controle de acesso com HikCentral (terminais de reconhecimento facial)
+- Automação de rotinas de manutenção com PowerShell
 
+**Aprendiz de TI — Eletra Energy Solutions** *(~1 ano e 4 meses)*
+- Suporte técnico interno e helpdesk
+- Introdução a ambientes de rede corporativa e Active Directory
 
-### Linguagens que estou aprendendo e desenvolvendo:
+---
 
-<div style="display: inline_block">
-  <img align ="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align ="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </div><br/>
+## Stack Técnica
 
-  ### Sistemas Operacionais que utilizo:
+**Sistemas Operacionais**
 
-  <div sytle="display: inline_block">
-   <img align = "center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-   <img align = "center" alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-   <img align = "center" alt="Debian" src ="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows 10/11](https://img.shields.io/badge/Windows_10%2F11-0078D6?style=flat&logo=windows&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 
+**Redes & Infraestrutura**
 
-   ### Banco de Dados que já utilizei:
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
 
-   <div sytle="display: inline_block">
-    <img align = "center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align = "center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+**Virtualização & Homelab**
 
+![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 
-### Estou desevolvendo minhas habilidades em Infraestrutura com cursos e certificações, como "Introdution to Cybersecurity" e "Networking Basics" da  Cisco, e estudando sobre Servidores Windows e Linux, estou conhecendo sobre a LGPD e GPO e a importancia da Segurança da informação.
-   
+**Scripting & Desenvolvimento**
 
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
+**Banco de Dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## Formação
+
+**Engenharia da Computação** — Universidade Ateneu, Fortaleza *(em curso — 6º semestre)*
+
+Disciplinas relevantes: Redes de Computadores, Sistemas Operacionais, Banco de Dados, Cálculo Aplicado, Projeto de Data Centers.
